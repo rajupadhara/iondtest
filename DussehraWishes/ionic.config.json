@@ -1,7 +1,0 @@
-{
-  "name": "DussehraWishes",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "ionic-angular"
-}
